@@ -1,0 +1,85 @@
+#detail{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: large;
+    background: #8E2DE2;  
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+}
+
+.cardDetail{
+    color: white;
+    text-align: center;
+    background: #36D1DC; 
+    background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  
+    background: linear-gradient(to right, #5B86E5, #36D1DC); 
+    padding: 30px 100px 30px 100px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px white; 
+    margin: 0px 100px 50px 70px;
+  
+}
+#card{
+    margin: 60px 25% 40px 25%;
+}
+#imgDetail{
+    width: 300px;
+    height: 300px;
+    border: 10px solid #ffffff;
+    border-radius: 600px;
+}
+.Title{
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2); 
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+    border: 2px solid whitesmoke;
+    border-radius: 250px;
+    margin: 20px 100px 20px 100px;
+    padding: 10px 10px 10px 10px;
+}
+.cardTail{
+    color: white;
+    text-align: center;
+    background: #36D1DC; 
+    background: -webkit-linear-gradient(to right, #5B86E5, #36D1DC);  
+    background: linear-gradient(to right, #5B86E5, #36D1DC); 
+    padding: 30px 100px 30px 100px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    box-shadow: 5px 5px 10px white; 
+    margin: 0px 100px 50px 70px;  
+}
+#section{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2,1fr);
+    grid-template-rows: repeat(2,1fr);
+}
+.Title4{
+    background: #8E2DE2;
+    background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2); 
+    background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+    border: 2px solid whitesmoke;
+    border-radius: 250px;
+    margin: 20px 180px 20px 180px;
+    padding: 10px 10px 10px 10px;
+}
+.p{
+    color: #31007b;
+}
+.buttonVolverAtras{
+    font-size: larger;
+    color: rgb(255, 255, 255);;
+    background-color: #976bff;
+    margin: 30px 0px 20px 30px;
+    border: 5px solid #d7c5e0 ;
+    border-radius: 10px;
+    height: 40px
+}
+.buttonVolverAtras:hover{  
+    color: beige;
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29); 
+}
+ 

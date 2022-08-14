@@ -1,0 +1,6 @@
+#Home{
+    background: #606c88;  
+    background: -webkit-linear-gradient(to right, #3f4c6b, #606c88);  
+    background: linear-gradient(to right, #3f4c6b, #606c88); 
+    font-family:'Times New Roman', Times, serif
+}
